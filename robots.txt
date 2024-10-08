@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://waiwbi.github.io/rXM/sitemap.rXM.gz
